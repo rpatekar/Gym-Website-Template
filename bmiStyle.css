@@ -1,0 +1,56 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    color: beige;
+   
+}
+img{
+    width: 100%;
+
+} 
+span{
+    color: red;
+}
+.bmi{
+    position:absolute;
+    top: 40%;
+    left: 50%;
+    transform:translate(-50%,-50%);
+    padding: 40px;
+    background: rgb(0, 0, 0);
+    border-radius: 5px;
+    box-shadow: rgb(221, 221, 221);
+}
+input{
+    outline: none;
+    border: none;
+    padding: 5px;
+}
+button{
+    color: white;
+    padding: 10px;
+    border: 2px solid white;
+    background: black;
+    display: block;
+    margin-top: 10%;
+    cursor: pointer;
+}
+.thanks{
+    position: absolute;
+    width: 50%;
+    height: auto;
+    top: 60%;
+    left: 30%;
+    font-size: 70px;
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 3px;
+    font-weight: bolder;
+    color: aquamarine;
+  
+}
+#home{
+    position: absolute;
+    top: -15%;
+    left: 90%;
+
+}
